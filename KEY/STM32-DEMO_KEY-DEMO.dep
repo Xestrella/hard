@@ -1,0 +1,89 @@
+Dependencies for Project 'STM32-DEMO', Target 'KEY-DEMO': (DO NOT MODIFY !)
+F (..\CMSIS\startup\startup_stm32f10x_hd.s)(0x4E662AE4)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x--list ..\listing\startup_stm32f10x_hd.lst --xref -o .\startup_stm32f10x_hd.o --depend .\startup_stm32f10x_hd.d)
+F (.\main.c)(0x5473DE95)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\led.h)(0x5473DE68)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\key.h)(0x4D47ED54)
+F (.\stm32f10x_it.c)(0x4D47D696)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\stm32f10x_it.o --omf_browse .\stm32f10x_it.crf --depend .\stm32f10x_it.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_it.h)(0x4DE852A6)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+F (.\led.c)(0x5473DE38)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\led.h)(0x5473DE68)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+F (.\key.c)(0x5473DE38)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\key.o --omf_browse .\key.crf --depend .\key.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\key.h)(0x4D47ED54)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+F (..\FWlib\src\stm32f10x_gpio.c)(0x49D9694A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\stm32f10x_gpio.o --omf_browse .\stm32f10x_gpio.crf --depend .\stm32f10x_gpio.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+F (..\FWlib\src\stm32f10x_rcc.c)(0x49D9694A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\stm32f10x_rcc.o --omf_browse .\stm32f10x_rcc.crf --depend .\stm32f10x_rcc.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+F (..\FWlib\src\misc.c)(0x49D9694A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\misc.o --omf_browse .\misc.crf --depend .\misc.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+F (..\CMSIS\core_cm3.c)(0x49D96948)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\core_cm3.o --omf_browse .\core_cm3.crf --depend .\core_cm3.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\CMSIS\system_stm32f10x.c)(0x49D96948)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\FWlib\inc -I..\USER-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\stm32f10x.h)(0x4DE4E85C)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\core_cm3.h)(0x49D96948)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\CMSIS\system_stm32f10x.h)(0x49D96948)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\USER\stm32f10x_conf.h)(0x4E65E2C8)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_exti.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_gpio.h)(0x4DF0E4D0)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (D:\BaiduYunDownload\STM32F103C8T6最小系统版资料\STM32F103C8T6例程\基本例程-按键（查询方式）\按键（查询方式）\FWlib\inc\misc.h)(0x49D9694A)
